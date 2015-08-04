@@ -1,4 +1,5 @@
-# peer_learning_party_game
+# Peer Learning Party Game
+
 Description of a techie party game to encourage casual peer learning
 
 Feel free to fork!
@@ -19,7 +20,7 @@ that's good enough!
 ## Peer Teaching
 
 Is there some skill you'd like someone to introduce
-you to?  Write "Teach Me <skill name>" on a sticker
+you to?  Write "Teach Me (whatever)" on a sticker
 and wear it under your nametag!
 
 As you chat and meet others, if you see someone with
@@ -43,7 +44,7 @@ a new topic!
 Research says that one of the best ways to learn is to
 teach others.  So, once somebody teaches you something
 at a Teach Me station, change your tag to "I'll Teach
-<skill name>" and see if somebody wants to learn it from
+(whatever)" and see if somebody wants to learn it from
 you!  And yes, wear your "I'll Teach" badge alongside
 a new "Teach Me" badge. 
 
@@ -51,15 +52,14 @@ a new "Teach Me" badge.
 
 Every time you teach a skill *or* learn a skill, put a
 star on your nametag.  Before you leave for the night,
-show Catherine how many stars you've earned.  On 
-Saturday at PyOhio, we'll give out two prizes: 16 GB USB
-drives in lovely, approximately-Pythonic green.  
-One goes to the
-person with the most stars, and one randomly selected
+show an organizer how many stars you've earned.  We'll 
+give out two prizes: 16 GB USB
+drives in lovely, approximately-Pythonic green.  One goes 
+to the person with the most stars, and one randomly selected
 from everybody with any stars.
 
 If someone teaches you a skill that's on their 
-"I'll teach <skill>" tag, take a *bonus* star, too.
+"I'll teach" tag, take a *bonus* star, too.
 This is a bribe for you to help others solidify 
 their learning with teaching!
 
